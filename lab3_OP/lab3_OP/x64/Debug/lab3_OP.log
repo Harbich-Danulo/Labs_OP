@@ -1,0 +1,3 @@
+﻿  lab3_OP.cpp
+C:\Visual\lab3_OP\lab3_OP\lab3_OP.cpp(8,25): warning C4305: инициализация: усечение из "double" в "float"
+  lab3_OP.vcxproj -> C:\Visual\lab3_OP\x64\Debug\lab3_OP.exe
